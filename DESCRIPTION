@@ -1,0 +1,13 @@
+Package: enhancedstats
+Type: Package
+Title: Enhanced Statistical Functions
+Version: 0.1.0
+Author: Deepika
+Maintainer: Deepika <drdokuru@gmail.com>
+Description: A package that provides enhanced outputs for t-tests and summary statistics.
+License: MIT
+Imports:
+    car,
+    lme4,
+    lmerTest,
+    MuMIn
